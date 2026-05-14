@@ -1,12 +1,10 @@
 <h1 align="center">👋 Hi, I'm Shafin Kabir</h1>
 
-<h3 align="center">💻 Competitive Programmer | Software Engineer</h3>
 
-<p align="center">
-I'm passionate about solving complex algorithms and building efficient, scalable software solutions.<br/>
-As a competitive programmer, I enjoy pushing the limits of my problem-solving skills across coding contests and platforms.<br/>
-With a strong foundation in data structures, algorithms, and software development, I strive to write clean, optimized, and scalable code.
-</p>
+![Visitor Count](https://komarev.com/ghpvc/?username=Shafin Kabir&color=blue)
+
+[![](https://visitcount.itsvg.in/api?id=Shafin Kabir&icon=9&color=5)](https://visitcount.itsvg.in)
+
 
 <br/>
 
@@ -15,16 +13,6 @@ With a strong foundation in data structures, algorithms, and software developmen
 📧 Reach me at: **shafinkabir247@gmail.com**
 
 </div>
-
-
-
-# 🚀 About Me
-
-- 🔥 Passionate about Competitive Programming & Software Development
-- 🧠 Strong interest in Data Structures & Algorithms
-- 🌱 Currently learning advanced backend & scalable system design
-- 💻 Love building web applications and solving programming problems
-- ⚡ Goal: Become a skilled Software Engineer & AI Developer
 
 
 
