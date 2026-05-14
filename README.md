@@ -1,9 +1,9 @@
 <h1 align="center">👋 Hi, I'm Shafin Kabir</h1>
 
 
-![Visitor Count](https://komarev.com/ghpvc/?username=Shafin Kabir&color=blue)
+![Visitor Count](https://komarev.com/ghpvc/?username=ShafinKabir&color=blue)
 
-[![](https://visitcount.itsvg.in/api?id=Shafin Kabir&icon=9&color=5)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=ShafinKabir&icon=9&color=5)](https://visitcount.itsvg.in)
 
 
 <br/>
