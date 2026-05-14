@@ -76,30 +76,27 @@
 
 </div>
 
-
-
 # 📊 GitHub Stats:
 
 <div align="center">
 
-![](https://github-readme-stats.vercel.app/api?username=Shafin247&theme=synthwave&hide_border=true&show_icons=true)<br/>
+![](https://github-readme-stats.vercel.app/api?username=Shafin247&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
 
-![Summary Card](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Shafin247&theme=synthwave)
-
-</div>
-
-<div align="center">
-
-![](https://github-readme-streak-stats.herokuapp.com/?user=Shafin247&theme=synthwave&hide_border=true)
+ 
+![Summary Card](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Shafin247&theme=radical)
 
 </div>
 
 <div align="center">
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Shafin247&theme=synthwave&hide_border=true&layout=compact)
+ 
+![](https://github-readme-streak-stats.herokuapp.com/?user=Shafin247&theme=radical&hide_border=false)<br/>
 
 </div>
+<div align="center">
+ 
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Shafin247&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
+</div>
 
 # 🌐 Connect With Me
 
