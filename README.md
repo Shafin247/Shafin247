@@ -28,6 +28,15 @@ With a strong foundation in data structures, algorithms, and software developmen
 
 
 
+# 🏆 GitHub Trophies
+
+<div align="center">
+
+![](https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+
+</div>
+
+
 # ⚒️ My Skills
 
 ## ➡️ Programming Languages
