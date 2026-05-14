@@ -82,21 +82,21 @@
 
 <div align="center">
 
-![](https://github-readme-stats.vercel.app/api?username=Shafin247&theme=nightowl&hide_border=true&show_icons=true)<br/>
+![](https://github-readme-stats.vercel.app/api?username=Shafin247&theme=algolia&hide_border=true&show_icons=true)<br/>
 
-![Summary Card](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Shafin247&theme=nightowl)
-
-</div>
-
-<div align="center">
-
-![](https://github-readme-streak-stats.herokuapp.com/?user=Shafin247&theme=nightowl&hide_border=true)
+![Summary Card](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Shafin247&theme=algolia)
 
 </div>
 
 <div align="center">
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Shafin247&theme=nightowl&hide_border=true&layout=compact)
+![](https://github-readme-streak-stats.herokuapp.com/?user=Shafin247&theme=algolia&hide_border=true)
+
+</div>
+
+<div align="center">
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Shafin247&theme=algolia&hide_border=true&layout=compact)
 
 </div>
 
