@@ -1,9 +1,9 @@
 <h1 align="center">Hi, I'm Shafin Kabir</h1>
 
 
-![Visitor Count](https://komarev.com/ghpvc/?username=ShafinKabir&color=blue)
+![Visitor Count](https://komarev.com/ghpvc/?username=Shafin247&color=blue)
 
-[![](https://visitcount.itsvg.in/api?id=ShafinKabir&icon=9&color=5)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=Shafin247&icon=9&color=5)](https://visitcount.itsvg.in)
 
 
 <br/>
@@ -20,7 +20,7 @@
 
 <div align="center">
 
-![](https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=Shafin247&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
 </div>
 
@@ -82,11 +82,11 @@
 
 <div align="center">
 
-![](https://github-readme-stats.vercel.app/api?username=ShafinKabir&theme=radical&hide_border=false&include_all_commits=true&count_private=true)
+![](https://github-readme-stats.vercel.app/api?username=Shafin247&theme=radical&hide_border=false&include_all_commits=true&count_private=true)
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=ShafinKabir&theme=radical&hide_border=false)
+![](https://github-readme-streak-stats.herokuapp.com/?user=Shafin247&theme=radical&hide_border=false)
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=ShafinKabir&theme=radical&hide_border=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Shafin247&theme=radical&hide_border=false&layout=compact)
 
 </div>
 
