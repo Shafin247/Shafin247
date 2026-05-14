@@ -16,7 +16,7 @@ With a strong foundation in data structures, algorithms, and software developmen
 
 </div>
 
----
+
 
 # 🚀 About Me
 
@@ -26,7 +26,7 @@ With a strong foundation in data structures, algorithms, and software developmen
 - 💻 Love building web applications and solving programming problems
 - ⚡ Goal: Become a skilled Software Engineer & AI Developer
 
----
+
 
 # ⚒️ My Skills
 
@@ -43,7 +43,7 @@ With a strong foundation in data structures, algorithms, and software developmen
 
 </div>
 
----
+
 
 ## ➡️ Web Development
 
@@ -55,7 +55,7 @@ With a strong foundation in data structures, algorithms, and software developmen
 
 </div>
 
----
+
 
 ## ➡️ Database
 
@@ -67,7 +67,7 @@ With a strong foundation in data structures, algorithms, and software developmen
 
 </div>
 
----
+
 
 ## ➡️ Software & Tools
 
@@ -79,7 +79,7 @@ With a strong foundation in data structures, algorithms, and software developmen
 
 </div>
 
----
+
 
 # 📊 GitHub Stats
 
@@ -93,7 +93,7 @@ With a strong foundation in data structures, algorithms, and software developmen
 
 </div>
 
----
+
 
 # 🌐 Connect With Me
 
@@ -103,10 +103,5 @@ With a strong foundation in data structures, algorithms, and software developmen
 
 </div>
 
----
 
-<div align="center">
 
-⭐ “Code. Learn. Build. Repeat.” ⭐
-
-</div>
