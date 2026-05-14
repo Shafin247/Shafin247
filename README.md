@@ -82,7 +82,7 @@
 
 <div align="center">
 
-![](https://github-readme-stats.vercel.app/api?username=Shafin247&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-stats.vercel.app/api?username=Shafin247&theme=tokyonight&hide_border=true&show_icons=true&rank_icon=github)<br/>
 
 ![Summary Card](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Shafin247&theme=tokyonight)
 
@@ -90,13 +90,13 @@
 
 <div align="center">
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=Shafin247&theme=tokyonight&hide_border=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=Shafin247&theme=dracula&hide_border=true)
 
 </div>
 
 <div align="center">
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Shafin247&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Shafin247&theme=tokyonight&hide_border=true&layout=compact)
 
 </div>
 
